@@ -1,0 +1,22 @@
+what is website URL ?
+  URL stand for universal resource locator 
+  URL provides information about website
+
+  types of URL ?
+
+  a) absoulute URL 
+        ex: https://www.zero2code.com/
+            https://www.zero2code.com/
+            https://www.onlinesbi.sbi/
+             or
+            
+            http://www.zero2code.com/  
+            http://drroshnidave.com/
+
+  b) relative URL 
+
+        ex: https://www.zero2code.com/about-us
+            https://www.zero2code.com/contact-us
+
+
+
