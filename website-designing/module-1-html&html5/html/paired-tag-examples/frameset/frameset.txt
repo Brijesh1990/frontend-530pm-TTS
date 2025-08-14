@@ -1,0 +1,7 @@
+what is framset  ?
+ frameset is a paired tag in side of html
+ frameset is used to open a webpage within another webpage 
+ frameset is open webpage in row and cols
+
+
+ A <frameset> in HTML is a paired tag used to divide the browser window into multiple sections, where each section can load a separate HTML document. It replaces the <body> tag in a frameset document and allows you to organize content in rows and columns. However, <frameset> is obsolete in HTML5 and should not be used in modern web development. Instead, use CSS and <iframe> for similar layouts.
